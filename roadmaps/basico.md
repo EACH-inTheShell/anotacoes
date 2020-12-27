@@ -37,6 +37,12 @@ authors:
 #### PicoCTF
 
 - flag\_shop
+- extensions
+- First Grep
+
+#### TryHackMe
+
+- Tmux
 
 ## Criptografia/Hashes
 
@@ -49,6 +55,16 @@ authors:
 ### CTFs
 
 #### PicoCTF
+
+- 2Warm
+- Warmed Up
+- Lets Warm Up
+- Bases
+- caesar
+- Easy1
+- 13
+- la cifra de
+
 
 #### SDS Labs - Backdoor
 
@@ -91,6 +107,16 @@ authors:
 
 ### CTFs
 
+#### PicoCTF
+
+- insp3ct0r
+- where are the robots
+- logon
+- picobowser
+- dont-use-client-side
+- Client-sie-again
+
+
 #### Backdoor
 
 - 2013-web-50
@@ -113,7 +139,7 @@ authors:
 #### TryHackMe
 
 - [OhsInt](https://tryhackme.com/room/ohsint)
-- [introresearch](https://tryhackme.com/room/introtoresearch)
+- [Intro to Research](https://tryhackme.com/room/introtoresearch)
 - [googledorking](https://tryhackme.com/room/googledorking)
 
 ## Scripting
@@ -132,4 +158,18 @@ authors:
 
 - Esteganografia
 - Números mágicos
+
+### CTFs
+
+#### PicoCTF
+
+- Glory of the Garden
+- So Meta
+- strings it
+
+#### backdoor:
+
+- nosignal
+- sound
+- What Lies Within
 
