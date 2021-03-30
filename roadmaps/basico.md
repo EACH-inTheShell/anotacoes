@@ -1,7 +1,7 @@
 ---
 title: Roadmap para iniciantes
 authors:
-	- Francisco
+	- Mayfly
 	- Tsuyoshi
 	- Yurie
 	- Vilela
@@ -11,22 +11,40 @@ authors:
 
 ## Linux
 
+Linux é o sistema operacional mais utilizado por hackers (mas não o único, você usa o que quiser).
+
+Ele pode ser rodado diretamente no pc (bare metal) ou pode também ser rodado em diferentes ambientes.
+
+O mais importante do Linux é saber se virar no terminal; a principal interface usada no sistema operacional.
+
+### Programas essenciais
+
+Alguns programas interessantes saber logo quando começa no Linux:
+
 - Kit básico de sobrevivência para terminal
 	- cd
 	- ls
 	- cat/less
-	- vim/nano
 	- mv/cd
 	- mkdir/touch
 - find
 - file
 - grep
-- sudo
+- sudo/su
+- head/tail
 
-- Kali/Parrot/Black Arch
-- Terminais
-- Tmux
-- WSL2/VM/Container/Dual boot/Live USB
+### Possíveis ambientes
+
+Os vários sistemas operacionais e contextos nos quais Linux pode ser rodado:
+
+- Sistemas operacionais: Kali, Parrot, Black Arch
+- Como/onde rodar: WSL2, VM, Containers, Dual boot, Live USB
+
+### Ferramentas úteis
+
+- multiplexadores: Terminator, Tmux, Screens
+- editores de texto: Vim, Nano, Emacs
+- terminais (opcionais): Alacritty, Kitty, Terminator
 
 ### CTFs
 
@@ -42,7 +60,15 @@ authors:
 
 #### TryHackMe
 
-- Tmux
+##### Recomendados
+
+- [Linux Fundamentals](https://www.tryhackme.com/module/linux-fundamentals)
+- [The find command](https://tryhackme.com/room/thefindcommand)
+
+##### Opcionais
+
+- [Tmux](https://tryhackme.com/room/rptmux)
+- [Linux Strength Training](https://tryhackme.com/room/linuxstrengthtraining)
 
 ## Criptografia/Hashes
 
@@ -65,7 +91,6 @@ authors:
 - 13
 - la cifra de
 
-
 #### SDS Labs - Backdoor
 
 - [TEST](https://backdoor.sdslabs.co/challenges/TEST)
@@ -76,13 +101,13 @@ authors:
 
 ## Redes
 
-- TCP/IP
+- LAN/WAN
 - Portas
-- HTTP/HTTPS
+- TCP/UDP
 - DNS
+- HTTP/HTTPS
 - SSH
 - FTP/SMB
-- DoS
 
 ### CTFs
 
@@ -97,13 +122,13 @@ authors:
 
 ## Web
 
-- Cookies
 - Métodos (GET, POST, ...)
+- Cookies
 - Proxy (normal e reverso)
 - OWASP Top 10
 - CVEs
-- Inspeção de código fonte
-- Como funcionam servidores (Apache, NodeJs, ...)
+- Ferramenta de desenvolvedor
+- Como funcionam servidores (Apache, NodeJs, ...) &lt; REQ: Redes
 
 ### CTFs
 
@@ -115,7 +140,6 @@ authors:
 - picobowser
 - dont-use-client-side
 - Client-sie-again
-
 
 #### Backdoor
 
@@ -146,13 +170,21 @@ authors:
 
 - Python (2 e 3)
 - Bash
-- Qualquer outra linguagem que vocês queiram (menos HTML, R e MatLab)
+- Qualquer outra linguagem que vocês queiram
 
 ### CTFs
 
 #### PicoCTF
 
 - like1000
+
+#### TryHackMe
+
+- [Ninja Skills](https://tryhackme.com/room/ninjaskills)
+
+#### inTheShell_
+
+- [EiTS Resources page](http://intheshell2.duckdns.org:1337/exercicios_script.pdf)
 
 ## Computação Forense
 
