@@ -49,6 +49,23 @@ authors:
 - Diferença
 - ASCII
 - HEX/BIN
+- Cifras históricas (operam em letras):
+	- Cifra monoalfabética (Caesar)
+	- Cifra polialfabética (Vigènere e Affine)
+- Cifras modernas (operam em bits):
+	- Cifra de fluxo
+	- Cifra em blocos
+	- TLS/SSL
+	- 3DES
+	- AES
+- Princípio de Kerckhoff
+	- um sistema criptográfico deve ser seguro mesmo que tudo sobre o sistema, exceto a chave, seja de conhecimento público
+- Ataques de cryptoanálise clássicas:
+	- Força-Bruta (Analisar inputs e outputs)
+	- Analítico (Analisar a função)
+- Tópicos matemáticos: 
+	- Teoria dos números
+	- Álgebra Modular
 - Como funcionam senhas (exemplo de hash)
 - Como funciona TLS/SSL (exemplo de criptografia)
 
@@ -56,14 +73,14 @@ authors:
 
 #### PicoCTF
 
-- 2Warm
-- Warmed Up
-- Lets Warm Up
-- Bases
-- caesar
-- Easy1
-- 13
-- la cifra de
+- [2Warm](https://play.picoctf.org/practice?page=1&search=2Warm)
+- [Warmed Up](https://play.picoctf.org/practice?page=1&search=Warmed%20Up)
+- [Lets Warm Up](https://play.picoctf.org/practice?page=1&search=Lets%20Warm%20Up)
+- [Bases](https://play.picoctf.org/practice?page=1&search=Bases)
+- [caesar](https://play.picoctf.org/practice?page=1&search=caesar)
+- [Easy1](https://play.picoctf.org/practice?page=1&search=Easy)
+- [13](https://play.picoctf.org/practice?page=1&search=13)
+- [la cifra de](https://play.picoctf.org/practice?page=1&search=la%20cifra%20de)
 
 
 #### SDS Labs - Backdoor
@@ -88,8 +105,8 @@ authors:
 
 #### PicoCTF
 
-- shark on wire 1
-- shark on wire 2
+- [shark on wire 1](https://play.picoctf.org/practice?page=1&search=shark%20on%20wire%201)
+- [shark on wire 2](https://play.picoctf.org/practice?page=1&search=shark%20on%20wire%202)
 
 #### TryHackMe
 
@@ -109,21 +126,21 @@ authors:
 
 #### PicoCTF
 
-- insp3ct0r
-- where are the robots
-- logon
-- picobowser
-- dont-use-client-side
-- Client-sie-again
+- [insp3ct0r](https://play.picoctf.org/practice?page=1&search=insp3ct0r)
+- [where are the robots](https://play.picoctf.org/practice?page=1&search=where%20are%20the%20robots)
+- [logon](https://play.picoctf.org/practice?page=1&search=logon)
+- [picobrowser](https://play.picoctf.org/practice?page=1&search=picobrowser)
+- [dont-use-client-side](https://play.picoctf.org/practice?page=1&search=dont-use-client-side)
+- [Client-side-again](https://play.picoctf.org/practice?page=1&search=Client-side-again)
 
 
 #### Backdoor
 
-- 2013-web-50
-- authorized persons only
-- browser
-- robot
-- batman
+- [2013-web-50](https://backdoor.sdslabs.co/challenges/2013-WEB-50)
+- [authorized persons only](https://backdoor.sdslabs.co/challenges/CK)
+- [browser](https://backdoor.sdslabs.co/challenges/BRWSR)
+- [robot](https://backdoor.sdslabs.co/challenges/ROBOT)
+- [batman](https://backdoor.sdslabs.co/challenges/BATMAN)
 
 #### TryHackMe
 
