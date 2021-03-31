@@ -212,13 +212,13 @@ Os vários sistemas operacionais e contextos nos quais Linux pode ser rodado:
 
 #### PicoCTF
 
-- Glory of the Garden
-- So Meta
-- strings it
+- [Glory of the Garden](https://play.picoctf.org/practice?page=1&search=Glory%20of%20The%20Garden)
+- [So Meta](https://play.picoctf.org/practice?page=1&search=So%20Meta)
+- [strings it](https://play.picoctf.org/practice?page=1&search=strings%20it)
+- [What Lies Within](https://play.picoctf.org/practice?page=1&search=What%20Lies%20Within)
 
 #### backdoor:
 
-- nosignal
-- sound
-- What Lies Within
+- [nosignal](https://backdoor.sdslabs.co/challenges/NO-SIGNAL)
+- [sound](https://backdoor.sdslabs.co/challenges/SOUND)
 
