@@ -17,9 +17,7 @@ Ele pode ser rodado diretamente no pc (bare metal) ou pode também ser rodado em
 
 O mais importante do Linux é saber se virar no terminal; a principal interface usada no sistema operacional.
 
-### Programas essenciais
-
-Alguns programas interessantes saber logo quando começa no Linux:
+### Essenciais
 
 - Kit básico de sobrevivência para terminal
 	- cd
@@ -33,14 +31,12 @@ Alguns programas interessantes saber logo quando começa no Linux:
 - sudo/su
 - head/tail
 
-### Possíveis ambientes
-
-Os vários sistemas operacionais e contextos nos quais Linux pode ser rodado:
+### Ambientes
 
 - Sistemas operacionais: Kali, Parrot, Black Arch
 - Como/onde rodar: WSL2, VM, Containers, Dual boot, Live USB
 
-### Ferramentas úteis
+### Ferramentas Úteis
 
 - multiplexadores: Terminator, Tmux, Screens
 - editores de texto: Vim, Nano, Emacs
@@ -54,9 +50,9 @@ Os vários sistemas operacionais e contextos nos quais Linux pode ser rodado:
 
 #### PicoCTF
 
-- flag\_shop
-- extensions
-- First Grep
+- [flag\_shop](https://play.picoctf.org/practice?page=1&search=flag_shop)
+- [extensions](https://play.picoctf.org/practice?page=1&search=extentions)
+- [First Grep](https://play.picoctf.org/practice?page=1&search=First%20Grep)
 
 #### TryHackMe
 
@@ -71,6 +67,12 @@ Os vários sistemas operacionais e contextos nos quais Linux pode ser rodado:
 - [Linux Strength Training](https://tryhackme.com/room/linuxstrengthtraining)
 
 ## Criptografia/Hashes
+
+A importância da criptografia está em proteger nossos dados de pessoas indesejadas.
+
+Mesmo que um sistema criptográfico seja seguro não é certeza que a pessoa que esteja usando esse sistema use ele de forma correta, isso cria aberturas para que a gente consiga quebrar eles.
+
+Por isso saber como as funções criptográficas funcionam e os suas fraquezas faz com que a gente não caia nos erros comuns ao usar elas.
 
 - Diferença
 - ASCII
@@ -118,14 +120,23 @@ Os vários sistemas operacionais e contextos nos quais Linux pode ser rodado:
 
 ## Redes
 
+Redes é a base da comunicação entre computadores. Ela é o que te permite acessar um computador que não o seu (sendo esse acesso esperado ou não).
+
+Sabendo redes você tem uma noção básica de como funciona todo o tipo de comunicação entre computadores e consegue entender mais facilmente limitações e protocolos que agem sobre ela.
+
+### Teoria
+
 - LAN/WAN
 - Portas
 - TCP/UDP
+- Modelos OSI e TCP/IP
 - Protocolos:
 	- DNS
 	- HTTP/HTTPS
 	- SSH
 	- FTP/SMB
+
+### Ferramentas
 
 - netcat
 - openssl
