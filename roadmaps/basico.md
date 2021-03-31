@@ -86,10 +86,10 @@ Os vários sistemas operacionais e contextos nos quais Linux pode ser rodado:
 	- AES
 - Princípio de Kerckhoff
 	- "Um sistema criptográfico deve ser seguro mesmo que tudo sobre o sistema, exceto a chave, seja de conhecimento público"
-- Ataques de cryptoanálise clássicas:
+- Ataques de criptoanálise clássicas:
 	- Força-Bruta (Analisar inputs e outputs)
 	- Analítico (Analisar a função)
-- Tópicos matemáticos: 
+- Tópicos matemáticos:
 	- Teoria dos números
 	- Álgebra Modular
 - Como funcionam senhas (exemplo de hash)
@@ -121,10 +121,15 @@ Os vários sistemas operacionais e contextos nos quais Linux pode ser rodado:
 - LAN/WAN
 - Portas
 - TCP/UDP
-- DNS
-- HTTP/HTTPS
-- SSH
-- FTP/SMB
+- Protocolos:
+	- DNS
+	- HTTP/HTTPS
+	- SSH
+	- FTP/SMB
+
+- netcat
+- openssl
+- nmap
 
 ### CTFs
 
