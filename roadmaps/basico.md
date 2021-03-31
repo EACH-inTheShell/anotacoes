@@ -123,6 +123,7 @@ Sabendo redes você tem uma noção básica de como funciona todo o tipo de comu
 - LAN/WAN
 - Portas
 - TCP/UDP
+- Modelos OSI e TCP/IP
 - Protocolos:
 	- DNS
 	- HTTP/HTTPS
