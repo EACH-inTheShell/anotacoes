@@ -223,6 +223,10 @@ Quando esse termo é usado, pressupõe-se que se trata de uma vulnerabilidade j�
 
 ### CTFs
 
+#### OverTheWire
+
+- [Natas (0 -> 10)](https://overthewire.org/wargames/natas/)
+
 #### PicoCTF
 
 - [insp3ct0r](https://play.picoctf.org/practice?page=1&search=insp3ct0r)
