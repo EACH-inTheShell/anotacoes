@@ -54,9 +54,9 @@ Os vários sistemas operacionais e contextos nos quais Linux pode ser rodado:
 
 #### PicoCTF
 
-- flag\_shop
-- extensions
-- First Grep
+- [flag\_shop](https://play.picoctf.org/practice?page=1&search=flag_shop)
+- [extensions](https://play.picoctf.org/practice?page=1&search=extentions)
+- [First Grep](https://play.picoctf.org/practice?page=1&search=First%20Grep)
 
 #### TryHackMe
 
@@ -71,6 +71,12 @@ Os vários sistemas operacionais e contextos nos quais Linux pode ser rodado:
 - [Linux Strength Training](https://tryhackme.com/room/linuxstrengthtraining)
 
 ## Criptografia/Hashes
+
+A importância da criptografia está em proteger nossos dados de pessoas indesejadas.
+
+Mesmo que um sistema criptográfico seja seguro não é certeza que a pessoa que esteja usando esse sistema use ele de forma correta, isso cria aberturas para que a gente consiga quebrar eles.
+
+Por isso saber como as funções criptográficas funcionam e os suas fraquezas faz com que a gente não caia nos erros comuns ao usar elas.
 
 - Diferença
 - ASCII
