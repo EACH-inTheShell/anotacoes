@@ -3,7 +3,7 @@ title: Roadmap para iniciantes
 authors:
 	- Mayfly
 	- Tsuyoshi
-	- Yurie
+	- Uxie
 	- Vilela
 ---
 
@@ -144,13 +144,71 @@ Os vários sistemas operacionais e contextos nos quais Linux pode ser rodado:
 
 ## Web
 
-- Métodos (GET, POST, ...)
+Hoje em dia, quem não está no ambiente web? Seja grandes empresas (como Facebook) e até a padaria da esquina. 
+
+Apesar da diferença entre elas, é preciso ter um cuidado para preservar informações da empresa e de seus clientes. 
+
+É importante saber o básico de como a web funciona e os ataques mais comuns para, assim, aprender a atacar e defender.
+
+### Conceitos importantes
+
+Aqui veremos alguns conceitos essenciais para a sobrevivência web.
+
+- Métodos 
+	- GET
+	- POST
+	- PUT
+	- PATCH
+	- DELETE
+- Códigos de status
+	- 100 >= 199
+	- 200 >= 299
+	- 300 >= 399
+	- 400 >= 499
+	- 500 >= 599
+- HTTP Request / Response
 - Cookies
-- Proxy (normal e reverso)
-- OWASP Top 10
-- CVEs
-- Ferramenta de desenvolvedor
-- Como funcionam servidores (Apache, NodeJs, ...) &lt; REQ: Redes
+- Load Balancer (LB)
+
+### OWASP Top 10
+
+OWASP é um projeto open source que reúne documentações, metodologias, ferramentas e outros conhecimentos relacionados à segurança de aplicações web. 
+
+O Top 10 representa as 10 falhas de segurança web mais aplicadas no dia a dia. 
+
+1. Injeção
+2. Quebra de Autenticação
+3. Exposição de Dados Sensíveis
+4. Entidades Externas de XML (XXE) 
+5. Quebra de Controlo de Acessos
+6. Configurações de Segurança Incorretas
+7. Cross-Site Scripting (XSS)
+8. Desserialização Insegura
+9. Utilização de Componentes Vulneráveis
+10. Registo e Monitorização Insuficiente
+
+### CVEs
+
+Common Vulnerabilities and Exposures (CVE) são registros públicos de vulnerabilidades e exposições conhecidas.
+
+Quando esse termo é usado, pressupõe-se que se trata de uma vulnerabilidade já catalogada e, assim, é possível já encontrar uma forma descoberta de como explorá-la.
+
+- Mitre
+- ExploitDB
+
+### Ferramenta de desenvolvedor
+
+- Inspecionar 
+- Console
+- Debugger
+- Network
+- Memory
+- Storage
+
+### Como funcionam servidores &lt; REQ: Redes
+
+- Apache
+- NodeJs
 
 ### CTFs
 
