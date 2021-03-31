@@ -177,8 +177,10 @@ Os vários sistemas operacionais e contextos nos quais Linux pode ser rodado:
 - [Owasp Top 10](https://tryhackme.com/room/owasptop10)
 
 ## OSINT
+O recohecimento é uma das partes mais importantes na busca por vulnerabilidades em segurança da informação. OSINT trata disso: técnicas para se coletar informações sobre pessoas e empresas (por exemplo), usando fontes abertas e disponíveis na web.
 
 - Google Dorking
+- Metadata Analysis
 
 ### CTFs
 
@@ -186,7 +188,8 @@ Os vários sistemas operacionais e contextos nos quais Linux pode ser rodado:
 
 - [OhsInt](https://tryhackme.com/room/ohsint)
 - [Intro to Research](https://tryhackme.com/room/introtoresearch)
-- [googledorking](https://tryhackme.com/room/googledorking)
+- [Google Dorking](https://tryhackme.com/room/googledorking)
+- [Advent of Cyber 2 (Task 19)](https://tryhackme.com/room/adventofcyber2)
 
 ## Scripting
 
@@ -210,10 +213,15 @@ Os vários sistemas operacionais e contextos nos quais Linux pode ser rodado:
 
 ## Computação Forense
 
+
 - Esteganografia
 - Números mágicos
 
 ### CTFs
+
+#### TryHackMe
+
+- [CC: Steganograohy](https://tryhackme.com/room/ccstego)
 
 #### PicoCTF
 
