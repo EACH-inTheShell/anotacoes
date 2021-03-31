@@ -193,7 +193,7 @@ Os vários sistemas operacionais e contextos nos quais Linux pode ser rodado:
 
 #### PicoCTF
 
-- like1000
+- [like1000](https://play.picoctf.org/practice?page=1&search=like1000)
 
 #### TryHackMe
 
