@@ -85,7 +85,7 @@ Os vários sistemas operacionais e contextos nos quais Linux pode ser rodado:
 	- 3DES
 	- AES
 - Princípio de Kerckhoff
-	- um sistema criptográfico deve ser seguro mesmo que tudo sobre o sistema, exceto a chave, seja de conhecimento público
+	- "Um sistema criptográfico deve ser seguro mesmo que tudo sobre o sistema, exceto a chave, seja de conhecimento público"
 - Ataques de cryptoanálise clássicas:
 	- Força-Bruta (Analisar inputs e outputs)
 	- Analítico (Analisar a função)
@@ -104,7 +104,7 @@ Os vários sistemas operacionais e contextos nos quais Linux pode ser rodado:
 - [Lets Warm Up](https://play.picoctf.org/practice?page=1&search=Lets%20Warm%20Up)
 - [Bases](https://play.picoctf.org/practice?page=1&search=Bases)
 - [caesar](https://play.picoctf.org/practice?page=1&search=caesar)
-- [Easy1](https://play.picoctf.org/practice?page=1&search=Easy)
+- [Easy1](https://play.picoctf.org/practice?page=1&search=Easy1)
 - [13](https://play.picoctf.org/practice?page=1&search=13)
 - [la cifra de](https://play.picoctf.org/practice?page=1&search=la%20cifra%20de)
 
