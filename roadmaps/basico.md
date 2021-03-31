@@ -246,6 +246,7 @@ Quando esse termo é usado, pressupõe-se que se trata de uma vulnerabilidade j�
 
 #### TryHackMe
 
+- [How websites work](https://www.tryhackme.com/room/howwebsiteswork)
 - [Web Fundamentals](https://tryhackme.com/room/webfundamentals)
 - [Owasp Top 10](https://tryhackme.com/room/owasptop10)
 
