@@ -11,10 +11,6 @@ Acrescentamos alguns desafios de Capture The Flag para aprender e colocar em pr�
 O documento [`basico.md`](./basico.md) contém as informações necessárias para iniciar. Nele há recursos externos e informações, básicas e superficiais, sobre os seguintes tópicos:
 
 - Linux
-- Criptografia/Hashes
 - Redes
 - Web
-- OSINT
-- Scripting
-- Computação Forense
-
+- Pentest
