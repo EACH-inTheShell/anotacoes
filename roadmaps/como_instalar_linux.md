@@ -18,3 +18,33 @@ Algumas distribuições que recomendamos para usar nas atividades
 - `Black Arch`: Qualquer distribuição baseada em `Arch` pode ser transformada em `Black Arch` ativando os repositórios do `Black Arch`
 
 ## Como instalar
+
+- [Kali](#Kali)
+- [Parrot](#Parrot)
+- [Black Arch](#Black Arch)
+
+### Kali
+
+#### Bare Metal
+
+Para instalar o `Kali` no computador como sistema operacional principal, existe o tutorial do [site oficial](https://www.kali.org/docs/installation/hard-disk-install/)
+
+#### Dual Boot
+
+Para instalar o `Kali` com outro linux no sistemaa, existe o tutorial do [site oficial](https://www.kali.org/docs/installation/dual-boot-kali-with-linux/)
+
+### Parrot
+
+#### Bare Metal
+
+Para instalar o `Parrot` no computador como sistema operacional principal, existe o tutorial do [site oficial](https://www.parrotsec.org/docs/installation.html)
+
+#### Virtal Machine
+
+Para instalar o `Parrot` em uma máquina virtuel, existe o tutorial do [site oficial](https://www.parrotsec.org/docs/installation.html)
+
+### Black Arch
+
+#### Bare Metal
+
+Para instalar o `Black Arch` no computador como sistema operacional principal, existe o tutorial do [site oficial](https://www.blackarch.org/blackarch-install.html)
