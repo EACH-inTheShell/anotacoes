@@ -23,28 +23,28 @@ Algumas distribuições que recomendamos para usar nas atividades
 - [Parrot](#Parrot)
 - [Black Arch](#Black Arch)
 
-### Kali
+# Kali
 
-#### Bare Metal
+## Bare Metal
 
 Para instalar o `Kali` no computador como sistema operacional principal, existe o tutorial do [site oficial](https://www.kali.org/docs/installation/hard-disk-install/)
 
-#### Dual Boot
+## Dual Boot
 
 Para instalar o `Kali` com outro linux no sistemaa, existe o tutorial do [site oficial](https://www.kali.org/docs/installation/dual-boot-kali-with-linux/)
 
-### Parrot
+# Parrot
 
-#### Bare Metal
+## Bare Metal
 
 Para instalar o `Parrot` no computador como sistema operacional principal, existe o tutorial do [site oficial](https://www.parrotsec.org/docs/installation.html)
 
-#### Virtal Machine
+## Virtal Machine
 
 Para instalar o `Parrot` em uma máquina virtuel, existe o tutorial do [site oficial](https://www.parrotsec.org/docs/installation.html)
 
-### Black Arch
+# Black Arch
 
-#### Bare Metal
+## Bare Metal
 
 Para instalar o `Black Arch` no computador como sistema operacional principal, existe o tutorial do [site oficial](https://www.blackarch.org/blackarch-install.html)
