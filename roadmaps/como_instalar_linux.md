@@ -13,37 +13,15 @@ Primeiro vamos começar com as opções, não existe apenas essas opções para 
 
 Algumas distribuições que recomendamos para usar nas atividades
 
-- `Kali`
 - `Parrot`
 - `Black Arch`: Qualquer distribuição baseada em `Arch` pode ser transformada em `Black Arch` ativando os repositórios do `Black Arch`
+- `Kali`
 
 ## Como instalar
 
-- [Kali](#Kali)
 - [Parrot](#Parrot)
 - [Black Arch](#Black-Arch)
-
-# [Kali](https://www.kali.org/)
-
-O `Kali` é uma distribuição Linux baseada no Debian que vem com [várias ferramentas](https://www.kali.org/tools/) de segurança da informação
-
-## Bare Metal
-
-#### Oficial
-
-Para instalar o `Kali` no computador como sistema operacional principal, existe o tutorial do [site oficial](https://www.kali.org/docs/installation/hard-disk-install/)
-
-## Dual Boot
-
-#### Oficial
-
-Para instalar o `Kali` com outro linux no sistemaa, existe o tutorial do [site oficial](https://www.kali.org/docs/installation/dual-boot-kali-with-linux/)
-
-## Virtual Machine
-
-#### Oficial
-
-Para instalar o `Kali` em uma máquina virtual, existem tutoriais no [site oficial](https://www.kali.org/docs/virtualization/)
+- [Kali](#Kali)
 
 # [Parrot](https://www.parrotsec.org/)
 
@@ -67,10 +45,32 @@ O `Black Arch` é uma distribuição baseada em `Arch` com [2804 ferramentas](ht
 
 ## Existing Arch installation
 
-Em uma distribuição `Arch` existente, é preciso adicionar os repositórios de ferramentas `Black Arch` e para isso existe [esse tutorial](https://www.blackarch.org/downloads.html#install-repo)
+Em uma distribuição `Arch` existente, é preciso adicionar os repositórios de ferramentas `Black Arch` e para isso existe o [tutorial oficial](https://www.blackarch.org/downloads.html#install-repo)
 
 ## Bare Metal
 
 #### Oficial
 
 Para instalar o `Black Arch` no computador como sistema operacional principal, existe o tutorial do [site oficial](https://www.blackarch.org/blackarch-install.html)
+
+# [Kali](https://www.kali.org/)
+
+O `Kali` é uma distribuição Linux baseada no Debian que vem com [várias ferramentas](https://www.kali.org/tools/) de segurança da informação
+
+## Bare Metal
+
+#### Oficial
+
+Para instalar o `Kali` no computador como sistema operacional principal, existe o tutorial do [site oficial](https://www.kali.org/docs/installation/hard-disk-install/)
+
+## Dual Boot
+
+#### Oficial
+
+Para instalar o `Kali` com outro linux no sistemaa, existe o tutorial do [site oficial](https://www.kali.org/docs/installation/dual-boot-kali-with-linux/)
+
+## Virtual Machine
+
+#### Oficial
+
+Para instalar o `Kali` em uma máquina virtual, existem tutoriais no [site oficial](https://www.kali.org/docs/virtualization/)
