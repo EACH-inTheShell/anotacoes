@@ -21,7 +21,7 @@ Algumas distribuições que recomendamos para usar nas atividades
 
 - [Kali](#Kali)
 - [Parrot](#Parrot)
-- [Black Arch](#Black Arch)
+- [Black Arch](#Black-Arch)
 
 # Kali
 
@@ -43,7 +43,7 @@ Para instalar o `Parrot` no computador como sistema operacional principal, exist
 
 Para instalar o `Parrot` em uma máquina virtuel, existe o tutorial do [site oficial](https://www.parrotsec.org/docs/installation.html)
 
-# Black Arch
+# Black-Arch
 
 ## Bare Metal
 
