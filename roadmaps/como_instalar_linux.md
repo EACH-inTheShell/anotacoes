@@ -67,7 +67,7 @@ O `Black Arch` é uma distribuição baseada em `Arch` com [2804 ferramentas](ht
 
 ## Existing Arch installation
 
-Para "instalar" `Black Arch` em seu `Arch` Linux existe [esse tutorial](https://www.blackarch.org/downloads.html#install-repo) para adicionar os repositórios de ferramentas do `Black Arch`
+Em uma distribuição `Arch` existente, é preciso adicionar os repositórios de ferramentas `Black Arch` e para isso existe [esse tutorial](https://www.blackarch.org/downloads.html#install-repo)
 
 ## Bare Metal
 
