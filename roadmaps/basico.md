@@ -103,9 +103,9 @@ Sabendo redes você tem uma noção básica de como funciona todo o tipo de comu
 
 ## Web
 
-Hoje em dia, quem não está no ambiente web? Seja grandes empresas (como Facebook) e até a padaria da esquina. 
+Hoje em dia, quem não está no ambiente web? Seja grandes empresas (como Facebook) e até a padaria da esquina.
 
-Apesar da diferença entre elas, é preciso ter um cuidado para preservar informações da empresa e de seus clientes. 
+Apesar da diferença entre elas, é preciso ter um cuidado para preservar informações da empresa e de seus clientes.
 
 É importante saber o básico de como a web funciona e os ataques mais comuns para, assim, aprender a atacar e defender.
 
@@ -113,7 +113,7 @@ Apesar da diferença entre elas, é preciso ter um cuidado para preservar inform
 
 Aqui veremos alguns conceitos essenciais para a sobrevivência web.
 
-- Métodos 
+- Métodos
 	- GET
 	- POST
 	- PUT
@@ -131,20 +131,20 @@ Aqui veremos alguns conceitos essenciais para a sobrevivência web.
 
 ### OWASP Top 10
 
-OWASP é um projeto open source que reúne documentações, metodologias, ferramentas e outros conhecimentos relacionados à segurança de aplicações web. 
+OWASP é um projeto open source que reúne documentações, metodologias, ferramentas e outros conhecimentos relacionados à segurança de aplicações web.
 
-O Top 10 representa as 10 falhas de segurança web mais aplicadas no dia a dia. 
+O Top 10 representa as 10 falhas de segurança web mais aplicadas no dia a dia.
 
-1. Injeção
-2. Quebra de Autenticação
-3. Exposição de Dados Sensíveis
-4. Entidades Externas de XML (XXE) 
-5. Quebra de Controlo de Acessos
-6. Configurações de Segurança Incorretas
-7. Cross-Site Scripting (XSS)
-8. Desserialização Insegura
-9. Utilização de Componentes Vulneráveis
-10. Registo e Monitorização Insuficiente
+1. Quebra de Autenticação
+2. Falhas Criptográficas
+3. Injeção
+4. Design inseguro
+5. Configurações de Segurança Incorretas
+6. Componentes Vulneráveis ou vencidos
+7. Falhas de Identificação e Autenticação
+8. Falhas de Software e Integridade de Dados
+9. Logging Seguro e Monitoramento de Falhas
+10. Server-Side Request Forgery (SSRF)
 
 ### CVEs
 
@@ -157,7 +157,7 @@ Quando esse termo é usado, pressupõe-se que se trata de uma vulnerabilidade j�
 
 ### Ferramenta de desenvolvedor
 
-- Inspecionar 
+- Inspecionar
 - Console
 - Debugger
 - Network
