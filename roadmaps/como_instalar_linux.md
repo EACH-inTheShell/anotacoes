@@ -25,7 +25,7 @@ Algumas diferenças entre as distribuições `Parrot` e `Kali` são destacadas n
 - [Parrot](#Parrot)
 - [Black Arch](#Black-Arch)
 
-Caso a opção seja fazer um dualboot tem existe [esse tutorial](https://www.youtube.com/watch?v=6D6L9Wml1oY) não oficial
+Caso a opção seja fazer um dualboot existe [esse tutorial](https://www.youtube.com/watch?v=6D6L9Wml1oY) não oficial
 
 # [Kali](https://www.kali.org/)
 
