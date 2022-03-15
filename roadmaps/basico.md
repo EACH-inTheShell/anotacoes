@@ -148,7 +148,7 @@ O Top 10 representa as 10 falhas de segurança web mais aplicadas no dia a dia.
 
 ### CVEs
 
-Common Vulnerabilities and Exposures (CVE) são registros públicos de vulnerabilidades e exposições conhecidas.
+*Common Vulnerabilities and Exposures* (CVE) são registros públicos de vulnerabilidades e exposições conhecidas.
 
 Quando esse termo é usado, pressupõe-se que se trata de uma vulnerabilidade já catalogada e, assim, é possível já encontrar uma forma descoberta de como explorá-la.
 
