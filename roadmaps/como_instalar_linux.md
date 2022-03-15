@@ -17,11 +17,41 @@ Algumas distribuições que recomendamos para usar nas atividades
 - `Black Arch`: Qualquer distribuição baseada em `Arch` pode ser transformada em `Black Arch` ativando os repositórios do `Black Arch`
 - `Kali`
 
+Algumas diferenças entre as distribuições `Parrot` e `Kali` são destacadas nesse [fórum](https://plus.diolinux.com.br/t/kali-linux-vs-parrot-os/5100)
+
 ## Como instalar
 
+- [Kali](#Kali)
 - [Parrot](#Parrot)
 - [Black Arch](#Black-Arch)
-- [Kali](#Kali)
+
+Caso a opção seja fazer um dualboot tem existe [esse tutorial](https://www.youtube.com/watch?v=6D6L9Wml1oY) não oficial
+
+# [Kali](https://www.kali.org/)
+
+O `Kali` é uma distribuição `GNU/Linux` baseada no Debian que vem com [várias ferramentas](https://www.kali.org/tools/) de segurança da informação
+
+## Bare Metal
+
+#### Oficial
+
+Para instalar o `Kali` no computador como sistema operacional principal, existe o tutorial do [site oficial](https://www.kali.org/docs/installation/hard-disk-install/)
+
+#### Não-Oficial (Português)
+
+- [Video no youtube](https://www.youtube.com/watch?v=EQqjFIZZQt4)
+
+## Dual Boot
+
+#### Oficial
+
+Para instalar o `Kali` com outro linux no sistemaa, existe o tutorial do [site oficial](https://www.kali.org/docs/installation/dual-boot-kali-with-linux/)
+
+## Virtual Machine
+
+#### Oficial
+
+Para instalar o `Kali` em uma máquina virtual, existem tutoriais no [site oficial](https://www.kali.org/docs/virtualization/)
 
 # [Parrot](https://www.parrotsec.org/)
 
@@ -32,6 +62,10 @@ O `Parrot` é uma distribuição `GNU/Linux` baseada no Debian construída por d
 #### Oficial
 
 Para instalar o `Parrot` no computador como sistema operacional principal, existe o tutorial do [site oficial](https://www.parrotsec.org/docs/installation.html)
+
+#### Não-Oficial
+
+- [youtube passo-a-passo](https://www.youtube.com/watch?v=xTuRuIFNrBQ)
 
 ## Virtal Machine
 
@@ -52,25 +86,3 @@ Em uma distribuição `Arch` existente, é preciso adicionar os repositórios de
 #### Oficial
 
 Para instalar o `Black Arch` no computador como sistema operacional principal, existe o tutorial do [site oficial](https://www.blackarch.org/blackarch-install.html)
-
-# [Kali](https://www.kali.org/)
-
-O `Kali` é uma distribuição Linux baseada no Debian que vem com [várias ferramentas](https://www.kali.org/tools/) de segurança da informação
-
-## Bare Metal
-
-#### Oficial
-
-Para instalar o `Kali` no computador como sistema operacional principal, existe o tutorial do [site oficial](https://www.kali.org/docs/installation/hard-disk-install/)
-
-## Dual Boot
-
-#### Oficial
-
-Para instalar o `Kali` com outro linux no sistemaa, existe o tutorial do [site oficial](https://www.kali.org/docs/installation/dual-boot-kali-with-linux/)
-
-## Virtual Machine
-
-#### Oficial
-
-Para instalar o `Kali` em uma máquina virtual, existem tutoriais no [site oficial](https://www.kali.org/docs/virtualization/)
