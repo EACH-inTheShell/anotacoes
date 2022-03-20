@@ -10,15 +10,15 @@
 
 ## Linux
 
-Linux é o sistema operacional mais utilizado por hackers (mas não o único, você usa o que quiser).
+Linux é o sistema operacional que roda na maioria dos servidores encontrados na internet, e também muito utilizado por hackers por facilitar o desenvolvimento e distribuição de ferramentas.
 
-Ele pode ser rodado diretamente no computador (bare metal) ou pode também ser rodado em diferentes ambientes.
+Ele pode ser rodado diretamente no computador sendo instalado sozinho (bare metal), em conjunto com outro sistema operacional (dual boot) ou rodado diretamente de um *pendrive* (live boot), ou pode também ser rodado em ambientes virtualizados como em uma maquina virtual ou através do WSL2 no windows.
 
-O mais importante do Linux é saber se virar no terminal; a principal interface usada no sistema operacional.
+O mais importante do Linux é saber se virar no terminal, pois vai ser o principal método de interação do usuário (você) com os computadores pessoais e servidores.
 
-### Essenciais
+### Ferramentas essenciais
 
-- Kit básico de sobrevivência para terminal
+- Kit básico de sobrevivência no terminal
 	- cd
 	- ls
 	- cat
@@ -33,14 +33,17 @@ O mais importante do Linux é saber se virar no terminal; a principal interface 
 
 ### Ambientes
 
-- Sistemas operacionais: Kali, Parrot, Black Arch
+- Distribuições Linux: Kali, Parrot, Black Arch
 - Como/onde rodar: WSL2, VM, Containers, Dual boot, Live USB
 
-### Ferramentas Úteis
+### Algumas ferramentas uteis
 
-- multiplexadores: Terminator, Tmux, Screens
+Essas servem para melhorar sua experiencia com o Linux e aumentar sua produtividade.
+
+- shells: bash, zsh, fish, dash
 - editores de texto: Vim, Nano, Emacs
-- terminais (opcionais): Alacritty, Kitty, Terminator
+- multiplexadores: Terminator, Tmux, Screens
+- simuladores de terminal: Alacritty, Kitty, Terminator
 
 ### CTFs
 
@@ -57,7 +60,7 @@ O mais importante do Linux é saber se virar no terminal; a principal interface 
 
 ## Redes
 
-Redes é a base da comunicação entre computadores. Ela é o que te permite acessar um computador que não o seu (sendo esse acesso esperado ou não).
+Redes é a base da comunicação entre computadores. Ela é o que te permite se comunicar com um outro computador.
 
 Sabendo redes você tem uma noção básica de como funciona todo o tipo de comunicação entre computadores e consegue entender mais facilmente limitações e protocolos que agem sobre ela.
 
@@ -92,16 +95,16 @@ Hoje em dia, quem não está no ambiente web? Seja grandes empresas (como Facebo
 
 Apesar da diferença entre elas, é preciso ter um cuidado para preservar informações da empresa e de seus clientes.
 
-É importante saber o básico de como a web funciona e os ataques mais comuns para, assim, aprender a atacar e defender.
+É importante saber o básico de como a web funciona e os ataques mais comuns para, assim, aprender a atacar e se defender.
 
 ### Conceitos importantes
 
 Aqui veremos alguns conceitos essenciais para a sobrevivência web.
 
 - HTTP Request / Response
-	- Métodos
-	- Códigos de status
-	- Parâmetros
+- Métodos
+- Códigos de status
+- Parâmetros
 - Cookies
 
 ### OWASP Top 10
