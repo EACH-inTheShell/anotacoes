@@ -6,6 +6,10 @@ Acrescentamos alguns desafios de Capture The Flag para aprender e colocar em pr�
 
 **🚨🚨🚨 Esse roadmap é totalmente baseado nas nossas experiências como um grupo.**
 
+## Instalar Linux
+
+No documento [`como_instalar_linux.md`](./como_instalar_linux.md) contém informações para instalar linux antes de começar o roadmap `básico.md`
+
 ## [Básico](./basico.md)
 
 O documento [`basico.md`](./basico.md) contém as informações necessárias para iniciar. Nele há recursos externos e informações, básicas e superficiais, sobre os seguintes tópicos:
