@@ -171,3 +171,9 @@ Quando esse termo é usado, pressupõe-se que se trata de uma vulnerabilidade j�
 	- [browser](https://backdoor.sdslabs.co/challenges/BRWSR)
 	- [robot](https://backdoor.sdslabs.co/challenges/ROBOT)
 	- [batman](https://backdoor.sdslabs.co/challenges/BATMAN)
+
+### Materiais auxiliares no desenvolvimento de CTFs
+
+Nestes materiais, há descrição, exemplos e usos dos conceitos e ferramentas utilizados em diferentes CTFs para facilitar o aprendizado. 
+
+- [Natas 0 ao 8](./web/Onboarding-web.pdf)
